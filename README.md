@@ -1,3 +1,7 @@
+# Shopify Next.js and Prisma Have been added 
+
+
+
 # WhislistApp-Shopify-App
 
 -Build with 3 Frameworks
