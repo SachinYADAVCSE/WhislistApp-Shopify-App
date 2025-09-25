@@ -1,0 +1,14 @@
+{
+  "name": "Shopify-wishlist-live-app",
+  "version": "2025.09.22",
+  "description": "A wishlist app built thrice with Express, Remix and Next.js and Shopify Extension",
+  "main": "index.js",
+  "scripts": {
+      
+      "pretty": "prettier --write ./",
+      "update": "ncu -u"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
